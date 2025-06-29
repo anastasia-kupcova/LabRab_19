@@ -15,7 +15,6 @@ public class Main {
 }
 enum Size{
     XXS(32){
-        //@Override
         public String getDescriptoin(){
             return "Детский размер";
         }
